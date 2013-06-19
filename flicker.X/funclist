@@ -1,0 +1,12 @@
+_altpwm: CODE, 175 0 54
+_imax: STRING, 254 0 1
+__stringtab: STRING, 229 0 6
+_greentable: STRING, 241 0 6
+_main: CODE, 256 0 218
+_upby: STRING, 255 0 1
+_redtable: STRING, 247 0 6
+__initialization: ENTRY, 3 0 23
+_randomize: CODE, 474 0 26
+_downby: STRING, 253 0 1
+_bluetable: STRING, 235 0 6
+Total: 348
